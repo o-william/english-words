@@ -1,5 +1,8 @@
 List Of English Words
 =============
+This repository is originally from https://github.com/dwyl/english-words/tree/master. All work is his. I only uploaded this here for my personal use in my projects and as a quick access backup. Feel free to use. My use case for this is for practicing with a large set of data, especially for things like sorting algorithms. This is not the most complete english list of words. For critical development needs, use an API of dictionary sites like Merriam-Webster. This is because workds are being added to the english dictionary every year. Also, more information exists on sites like Merrian Webster, such as definitions, antonymns and so on. I do not actively maintain this repository to reflect this, and I do not think the original owner does this either. For me, this is just a data source for me, for things like sorting algorithms in Python and C++ projects.
+
+Below is his description of the repository.
 
 A text file containing over 466k English words.
 
